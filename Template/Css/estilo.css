@@ -792,6 +792,7 @@ section .section-title {
     .section-title{font-size: 230%;}
     .section-title{padding-top: 20px;}
     .frontside{padding-bottom: 70px;}
+    .buttom-procurar{padding-left: 15px}
 }
 @media screen and (max-width: 450PX){
     #team{padding: 10px;}

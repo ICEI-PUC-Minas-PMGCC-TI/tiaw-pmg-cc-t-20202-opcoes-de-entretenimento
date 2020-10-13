@@ -38,7 +38,7 @@ html{
 }
 h1 {
   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
-  font-size: 92px;
+  font-size: 550%;
   padding: 80px 50px;
   text-align: center;
   text-transform: uppercase;
@@ -439,7 +439,9 @@ h1 {
 	.top-bar a.navbar-brand{font-size: 240%;}
 	.top-bar a.navbar-brand{padding-right: 90px;}
   .top-bar a.navbar-brand{padding-top: 20px}
-  .navbar-toggler{margin-top: 30px}
+  .navbar-toggler{margin-top: 15px}
+  .buttom-procurar{padding-left: 15px}
+  h1{font-size: 350%}
 
 }
 
@@ -448,7 +450,7 @@ h1 {
 /*conta paginas*/
 .fundo-preto{
   background-color: rgb(0, 0, 0);
-  margin-right: -80px;
+  margin-right: 0px;
 }
 .contar-paginas{
 background-image: url(imagens/preto.jpg);
@@ -475,7 +477,7 @@ margin-bottom: -5px;
 .rodape{
 	background-color: black;
 	padding: 20px 0px 20px 0px;
-  margin-right: -80px;
+  margin-right: 0px;
 }
 .O-b{
 	color: white;

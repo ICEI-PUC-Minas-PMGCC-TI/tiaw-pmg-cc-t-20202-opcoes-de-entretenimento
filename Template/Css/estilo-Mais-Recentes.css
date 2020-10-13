@@ -57,8 +57,8 @@ p-video{
 
 h1 {
   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
-  font-size: 92px;
-  padding: 80px 50px;
+  font-size: 550%;
+  padding: 80px 0px;
   text-align: center;
   text-transform: uppercase;
   text-rendering: optimizeLegibility;
@@ -335,10 +335,9 @@ h1 {
 	.top-bar a.navbar-brand{font-size: 240%;}
 	.top-bar a.navbar-brand{padding-right: 100px;}
   .top-bar a.navbar-brand{padding-top: 20px}
-  .navbar-toggler{margin-top: 30px}
-  .navbar-toggler{margin-right: 120px}
-  h1{margin-right: 20px}
-
+  .navbar-toggler{margin-top: 15px}
+  .buttom-procurar{padding-left: 15px}
+  h1{font-size: 350%}
 }
 
 
@@ -351,7 +350,7 @@ h1 {
 .rodape{
 	background-color: black;
 	padding: 20px 0px 20px 0px;
-  margin-right: -220px;
+  margin-right: 0px;
 }
 .O-b{
 	color: white;

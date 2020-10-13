@@ -38,7 +38,7 @@ html{
 }
 h1 {
   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
-  font-size: 350%;
+  font-size: 550%;
   padding: 80px 50px;
   text-align: center;
   text-transform: uppercase;
@@ -441,6 +441,8 @@ h1 {
   .top-bar a.navbar-brand{padding-top: 20px}
   .navbar-toggler{margin-top: 15px}
   .navbar-toggler{margin-right: 0px}
+  .buttom-procurar{padding-left: 15px}
+  h1{font-size: 350%}
 
 }
 
