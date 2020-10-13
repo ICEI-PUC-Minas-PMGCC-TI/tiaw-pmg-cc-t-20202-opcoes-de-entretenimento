@@ -1,19 +1,22 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`OPÇÕES DE ENTRETENIMENTO`  
 
 Trabalho Interdisciplinar - Aplicacões Web
 
-`CURSO`
+`CURSO: CIÊNCIA DA COMPUTAÇÃO`
 
-`SEMESTRE`
+`SEMESTRE: 2/2020`
 
 ## Participantes
 
 Os membros do grupo são: 
-- Fulano da Silva
-- Ciclano Albuquerque
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
+- André Ferreira Moreira
+- Lucas Augusto Azevedo
+- Marcos Vinicius Nunes dos Santos
+- André Fellipe Carvalho Silveira
+- Júlia Michetti Costa Santos
+
 
 # Estrutura do Documento
 
