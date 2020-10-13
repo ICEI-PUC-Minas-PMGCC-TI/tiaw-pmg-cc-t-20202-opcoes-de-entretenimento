@@ -36,7 +36,15 @@ etiquetas:
 
 ## Hospedagem
 
-> Explique como a hospedagem e o lançamento da plataforma foi feita.
+*Hospedagem do site: https://julia120900.github.io/siteTi/
+
+Feita pelo GitHub pages
+
+Repositórios:
+https://github.com/julia120900/siteTi
+
+Pastas do VS Code no repositório pessoal.
+
 >
 > **Links Úteis**:
 >
