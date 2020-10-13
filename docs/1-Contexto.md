@@ -1,61 +1,35 @@
 # Introdução
 
 ## Problema
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+>Em dezembro de 2019 foi descoberto um novo coronavÍrus denominado 
+>SARS-CoV-2019 em Wuhan, na China. Devido à alta taxa de transmissão desse novo vírus, até o final de janeiro de 2020 já haviam casos
+>confirmados em diversos países, e com isso a OMS declarou a epidemia como uma emergência internacional.
+>Em fevereiro houveram os primeiros casos importados no Brasil, e em março o primeiro óbito causado pela
+>doença e com isso os governantes começaram a adotar medidas restritivas para tentar conter a disseminação do novo vírus. Essas medidas proibiram aglomerações em público e colocaram em home office todas as pessoas que poderiam trabalhar em casa.
+>Com as famílias isoladas, passando mais tempos juntas na quarentena e com menos opções de entretenimento,
+muitas delas começaram uma busca por novos tipos de entretenimento para fazerem juntas.
+>Levando em consideração esses aspectos, é necessário a criação de um meio para facilitar a procura por 
+>novos meios de entretenimento às famílias isoladas durante a pandemia do SARS-CoV-2019
+>Problema
+>Como foi mostrado acima, hoje há uma falta de conhecimento de opções de entretenimento pelas famílias isoladas durante a pandemia.
 
 ## Objetivos
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+> Mostras para as famílias isoladas durante a pandemia novas opções de entretenimento para serem feitos em isolamento
+> objetivos específicos:
+
+* Permitir ao usuário uma interação social com as recomendações por meio de uma sessão de comentários e compartilhamentos.
+* Facilitar interação entre as famílias durante a pandemia.
+* Facilitar a procura por novos tipos de entretenimento.
+* Criar um perfil do usuário com tópicos de interesse de entretenimento.
 
 ## Justificativa
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> Com o isolamento devido a pandemia do SARS-CoV-2019, muitas famílias
+> estão a procura de novos tipos de entretenimento para fazerem em isolamento,
+> e atualmente não há maneiras de se achar facilmente essas opções.
 
 ## Público-Alvo
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
+>O público-alvo foi escolhido como pais e filhos com tempo livre,
+>que moram juntos, estão em isolamento durante a pandemia e possuem acesso a internet.. 
