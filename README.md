@@ -12,13 +12,15 @@ desenvolver seus respectivos artefatos.
 
 Este _template_ adota a seguinte estrutura de diretórios:
 
+- `Template`
+  - `Css`
+  - `Html`
+  - `Jscript`
+  - `imagens`
+
 - `docs`
   - `images`
-- `src`
-  - `assets`
-  - `scripts`
-  - `styles`
-  - `vendor`
+
 
 > O grupo é livre para alterar a estrutura proposta. No entanto, nesse
 > caso, o arquivo `README.md` deve ser devidamente modificado para
@@ -41,17 +43,17 @@ imagens utilizadas para a elaboração do documento [`Projeto.md`](docs/Projeto.
 A presentação do projeto, deve ser entregue à parte em formato `pdf` e
 podem devem ser colocada no diretório `docs`.
 
-## src
+## Template
 
 Este diretório armazena o código fonte do projeto e adota uma hierarquia
 básica de projetos Web simples, que utilizam as tecnologias HTML, CSS e
 JavaScript:
 
-- O diretório `assets` é utilizado para armazenar imagens, fontes e
+- O diretório `imagens` é utilizado para armazenar imagens, fontes e
   outros recursos utilizados no projeto. 
-- O diretório `scripts` armazena os arquivos JavaScripts do projeto
-- O diretório `styles` é utilizado para os arquivos CSS
-- o diretório `vendor` é reservado para incluir bibliotecas e frameworks
+- O diretório `Jscript` armazena os arquivos JavaScripts do projeto
+- O diretório `Css` é utilizado para os arquivos CSS
+- o diretório `Html` é reservado para incluir bibliotecas e frameworks
   utilizados no projeto como Bootstrap, jQuery, etc.
 
 # Orientações Gerais Sobre o Projeto
