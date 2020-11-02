@@ -1,0 +1,35 @@
+.imagem-filme
+{
+width: 190px;
+height: 273px;
+}
+
+.estrelas 
+{
+text-align: center;    
+}
+
+.conteudo
+{
+background-color: rgb(94, 9, 9);    
+}
+
+.card-body
+{
+background-color: black;    
+}
+
+.card-body > p
+{
+color: white;
+}
+
+.card-title > b
+{
+color: white;
+}
+
+.estrelas
+{
+color: white    ;    
+}
